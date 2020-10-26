@@ -53,7 +53,7 @@ E是观察你分类垃圾邮件，T是分类垃圾邮件，P成功分类是否�
 
 #### 鸡尾酒会算法
 
-![节点](G:\GitHub\machine-learning\pictures\鸡尾酒会问题.PNG)
+![鸡尾酒会问题](./pictures/鸡尾酒会问题.png)
 
 在一个鸡尾酒会上，让speaker1和speaker2互相同时说话，用两个麦克风分别靠近speaker1和speaker2，麦克风的录音记录两个人说话的声音。
 
