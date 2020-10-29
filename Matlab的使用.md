@@ -310,3 +310,43 @@ length()常用于向量
 
 > colormap gray; % 矩阵颜色图整体颜色是灰色系
 ![colormap](./pictures/colormap.png)
+
+11.循环判断语句
+
+打印1-10这十个数字
+> for i=1:10,
+
+> disp(i);
+
+> end;
+
+
+打印1-4的平方
+
+> i = 1;
+
+> while true;
+
+> v(i) = i ^ 2;
+
+> i = i + 1;
+
+> if i == 5;
+
+> break;
+
+> end;
+
+> end;
+
+> if i == 1,
+
+>disp('The value is one');
+
+>elseif i == 2,
+
+>disp('The value is two');
+
+>else disp('The value is neither one nor two');
+
+>end;
