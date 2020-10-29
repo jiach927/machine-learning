@@ -339,14 +339,16 @@ length()常用于向量
 
 > end;
 
+判断变量i的值
+
 > if i == 1,
 
->disp('The value is one');
+> disp('The value is one');
 
->elseif i == 2,
+> elseif i == 2,
 
->disp('The value is two');
+> disp('The value is two');
 
->else disp('The value is neither one nor two');
+> else disp('The value is neither one nor two');
 
->end;
+ >end;
