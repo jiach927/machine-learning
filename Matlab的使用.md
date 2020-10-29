@@ -1,7 +1,7 @@
 1.== 等于 ~= 不等于 && 逻辑与 || 逻辑或 xor() 异或
 
 2.disp(sprintf('语句'))在命令行窗口打印语句
- disp(sprintf('everything is ok'))
+2.1disp(sprintf('everything is ok'))
 -> everything is ok
 
 3.format long显示无限小数默认打印的最多小数点后位数
